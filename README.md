@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# RespireeAzure
-=======
 # Azure Terraform Infra Setup (from AWS Migration)
 
 ## Summary
@@ -21,7 +18,3 @@ This project replicates a real-world cloud migration I worked on, where an entir
 - Handles production/staging environment configuration with `terraform.tfvars`
 - Uses separate state files for each environment
 - Rewritten from scratch based on AWS → Azure service mapping
-
-
-This repository is a personal recreation. It does not contain or reflect any company-sensitive or proprietary data.
->>>>>>> db5756308a14e7e6b506190508a91a284622f747
